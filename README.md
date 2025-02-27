@@ -11,4 +11,4 @@ OCI(Oracle Cloud Infrastructure, https://www.oracle.com/kr/cloud/) 인스턴스�
 
 ## 특징
 웹 개발 기본기를 다지고자 html / css / javascript 만으로 구현하였습니다.   
-http://www.everdu.com 에서 결과물을 만나 볼 수 있습니다.   
+https://www.everdu.com 에서 결과물을 만나 볼 수 있습니다.   

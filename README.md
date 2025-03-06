@@ -1,6 +1,6 @@
 # 에버듀 개인 홈페이지
 
-[박수현님의 개인 홈페이지](shiftphs.com) 에서 자극을 받아 자기소개 사이트를 직접 만들었습니다.   
+[박수현님의 개인 홈페이지](https://shiftphs.com) 에서 자극을 받아 자기소개 사이트를 직접 만들었습니다.   
 OCI(Oracle Cloud Infrastructure, https://www.oracle.com/kr/cloud/) 인스턴스를 이용해 배포하였습니다.
 
 ## 환경 & 기술

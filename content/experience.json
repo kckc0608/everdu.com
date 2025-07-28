@@ -4,6 +4,17 @@
       "year": 2025,
       "experiences": [
         {
+          "date": "2025. 7.25 ~ 7.26",
+          "title": "- 2025 Hajithon - Server 파트 참여",
+          "content": [
+            "교내 개발학회 GDG와 시각디자인과 소모임 Hypen에서 연합으로 주최한 '하지톤'에 Server 파트로 참가하였습니다. <br />",
+            "'probability' 라는 해커톤 주제에 대해 익명 고민 편지 전송 플랫폼 'Posth'의 API 서버를 개발하였습니다. <br />",
+            "<a href='https://github.com/2025-hajithon/2025-team01-POSTH-server'>깃허브 레포지토리</a><br />",
+            "<a href='https://2025-team01-posth-web-red.vercel.app/'>프로젝트 배포 주소</a><br />",
+            "<a href='https://chinpa.tistory.com/626'>하지톤 참여 후기</a><br />"
+          ]
+        },
+        {
           "date": "2025. 3.10 ~ now",
           "title": "- 2025-1 GDG Hongik 백엔드 파트 리드",
           "content": [

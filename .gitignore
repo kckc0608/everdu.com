@@ -1,3 +1,4 @@
 *.save
+.idea/**
 everdu.cmd
 run.cmd

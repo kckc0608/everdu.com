@@ -1,6 +1,22 @@
 {
   "years": [
     {
+      "year": 2026,
+      "experiences": [
+        {
+          "date": "2025. 12.28 ~ 2026. 2.27",
+          "title": "- HMG 소프티어 부트캠프 7기 BE 수료",
+          "content": [
+            "HMG ICT 본부에서 진행하는 소프티어 부트캠프에 BE로 수료하고, 최종 프로젝트에서 '최고의 팀워크 상'을 수상하였습니다. <br />",
+            "<a href='https://chinpa.tistory.com/635'>소프티어 합격 후기</a><br />",
+            "<a href='https://chinpa.tistory.com/639'>소프티어 BE 회고</a><br />",
+            "<a href='https://www.munhwa.com/article/11570705'>뉴스 기사 (인터뷰 참여)</a><br />",
+            "<a href='https://www.refit.my'>프로젝트 배포 주소</a><br />"
+          ]
+        }
+      ]
+    },
+    {
       "year": 2025,
       "experiences": [
         {

@@ -4,6 +4,15 @@
       "year": 2025,
       "experiences": [
         {
+          "date": "2025. 11.28",
+          "title": "- 2025 홍익대학교 졸업 전시회 '장려상'",
+          "content": [
+            "홍익대학교 졸업 프로젝트로 '한글 SQL 데이터베이스'를 개발하여 장려상을 수상하였습니다. <br />",
+            "<a href='https://github.com/HIU-2025-GRADUATE/hanguelite'>깃허브 레포지토리</a><br />",
+            "<a href='http://hangeulite.everdu.com/'>프로젝트 배포 주소</a><br />"
+          ]
+        },
+        {
           "date": "2025. 9.27",
           "title": "- 2025 홍익대학교 프로그래밍 경진대회 4등",
           "content": [

@@ -28,6 +28,7 @@ header {
 #header_logo_name {
     margin: 0;
     font-size: 26px;
+    font-weight: bolder;
 }
 
 nav {

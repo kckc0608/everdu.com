@@ -4,6 +4,14 @@
       "year": 2026,
       "experiences": [
         {
+          "date": "2026. 8.10 ~ now",
+          "title": "- 현대자동차그룹 ICT 본부 BE Developer",
+          "content": [
+            "현대자동차그룹 ICT 본부에서 백엔드 개발자로 근무하며, 내/외부 제공 API를 개발하고 있습니다. <br />",
+            "주요 기술: Kotlin, Spring Boot, MySql, Redis, MongoDB, Kafka<br />"
+          ]
+        },
+        {
           "date": "2025. 12.28 ~ 2026. 2.27",
           "title": "- HMG 소프티어 부트캠프 7기 BE 수료",
           "content": [

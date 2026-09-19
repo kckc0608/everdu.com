@@ -145,6 +145,10 @@ p > a {
   font-weight: bold;
 }
 
+.link_item {
+  padding-right: 4px;
+}
+
 .link_item:hover {
   text-decoration: underline;
 }
